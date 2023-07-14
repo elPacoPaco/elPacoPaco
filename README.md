@@ -1,4 +1,4 @@
-### Hi there 👋
+### Holitas 👋
 
 <!--
 **elPacoPaco/elPacoPaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hola, este es mi perfil en github <br/>
+Hagamos cosas bonitas!!!! <br/>
+Aunque de momento solo es para aprender, pero ya veremos lo que depara el futuro
+
+<b>"Alguien que no tiene sueños propios no puede destruir los sueños de los demás"</b> <br>
+-Monkey D. Luffy <br/>
+<img src="http://www.pixelstalk.net/wp-content/uploads/2016/03/Luffy-one-piece-wallpaper-HD-free-download.jpg" style="width:600px">
+
